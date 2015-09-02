@@ -1,3 +1,3 @@
 # Practice-Repository2
-Another repository for practice.
-Editing (first time).
+
+Repo for testing OSF files download with OSF API v2 client library.
